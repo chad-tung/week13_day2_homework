@@ -11,6 +11,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "webpack": "^3.10.0"
   }
 }
